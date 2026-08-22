@@ -1,0 +1,31 @@
+:root {
+  --color-primary: #1f3a5f;
+  --color-accent: #2e8b76;
+  --color-bg: #f5f7fa;
+  --color-text: #1a1a1a;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  background-color: #f5f7fa;
+  color: #1a1a1a;
+}
+
+button {
+  font-family: inherit;
+}
+
+a {
+  color: inherit;
+}

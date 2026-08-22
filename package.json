@@ -1,0 +1,11 @@
+{
+  "name": "peoplehub-hr-portal",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Root package used only to resolve dependencies for Netlify Functions (netlify/functions/chat.ts).",
+  "dependencies": {
+    "@azure/openai": "^2.0.0",
+    "openai": "^4.63.0",
+    "@netlify/functions": "^2.8.2"
+  }
+}

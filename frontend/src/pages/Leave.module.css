@@ -1,0 +1,116 @@
+.pageTitle {
+  color: #1f3a5f;
+  margin-bottom: 16px;
+}
+
+.tableWrapper {
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+  overflow-x: auto;
+  margin-bottom: 32px;
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 14px;
+}
+
+.table th {
+  text-align: left;
+  background-color: #1f3a5f;
+  color: #ffffff;
+  padding: 12px 16px;
+}
+
+.table td {
+  padding: 12px 16px;
+  border-bottom: 1px solid #eef1f5;
+  color: #1a1a1a;
+}
+
+.statusBadge {
+  padding: 4px 10px;
+  border-radius: 999px;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.statusApproved {
+  background-color: rgba(46, 139, 118, 0.15);
+  color: #2e8b76;
+}
+
+.statusPending {
+  background-color: rgba(31, 58, 95, 0.12);
+  color: #1f3a5f;
+}
+
+.statusRejected {
+  background-color: rgba(200, 60, 60, 0.12);
+  color: #c83c3c;
+}
+
+.formCard {
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+  padding: 24px;
+  max-width: 600px;
+}
+
+.formTitle {
+  color: #1f3a5f;
+  margin-top: 0;
+  margin-bottom: 16px;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.formRow {
+  display: flex;
+  gap: 16px;
+}
+
+.label {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  font-size: 13px;
+  color: #5a6472;
+  font-weight: 600;
+}
+
+.input {
+  padding: 10px 12px;
+  border: 1px solid #d5dbe3;
+  border-radius: 8px;
+  font-size: 14px;
+  color: #1a1a1a;
+}
+
+.input:focus {
+  outline: none;
+  border-color: #2e8b76;
+}
+
+.submitButton {
+  align-self: flex-start;
+  background-color: #2e8b76;
+  color: #ffffff;
+  border: none;
+  border-radius: 8px;
+  padding: 10px 20px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.submitButton:hover {
+  background-color: #256e5f;
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "p1",
+    "title": "Paid Time Off (PTO)",
+    "body": "Full-time employees accrue 15 days of PTO per year, credited monthly. Unused PTO up to 5 days may be carried over into the next calendar year. Submit requests at least 5 business days in advance via the Leave tab."
+  },
+  {
+    "id": "p2",
+    "title": "Payroll Schedule",
+    "body": "Employees are paid on a bi-weekly basis, every other Friday. Direct deposit is required. Pay stubs are available in the payroll portal by 9am on payday."
+  },
+  {
+    "id": "p3",
+    "title": "Health & Dental Benefits",
+    "body": "PeopleHub covers 80% of health insurance premiums and 100% of dental premiums for employees. Dependents can be added during open enrollment or within 30 days of a qualifying life event."
+  },
+  {
+    "id": "p4",
+    "title": "Remote Work Policy",
+    "body": "Employees may work remotely up to 3 days per week with manager approval. Fully remote arrangements require VP-level sign-off and are evaluated on a role-by-role basis."
+  },
+  {
+    "id": "p5",
+    "title": "Wellness Reimbursement",
+    "body": "Employees can be reimbursed up to $300 per calendar year for gym memberships, fitness classes, or approved wellness apps. Submit receipts through the expense portal under 'Wellness'."
+  },
+  {
+    "id": "p6",
+    "title": "Code of Conduct",
+    "body": "All employees are expected to act with integrity, respect, and professionalism. Harassment, discrimination, and retaliation of any kind are strictly prohibited and should be reported to HR immediately."
+  }
+]

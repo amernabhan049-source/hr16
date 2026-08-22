@@ -1,0 +1,31 @@
+.appShell {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.header {
+  background-color: #1f3a5f;
+  padding: 16px 24px;
+  border-bottom: 3px solid #2e8b76;
+}
+
+.headerTitle {
+  margin: 0;
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: 700;
+  letter-spacing: 0.2px;
+}
+
+.body {
+  display: flex;
+  flex: 1;
+}
+
+.content {
+  flex: 1;
+  padding: 32px;
+  background-color: #f5f7fa;
+  color: #1a1a1a;
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "e1",
+    "name": "Maria Chen",
+    "role": "Senior Product Designer",
+    "department": "Design",
+    "email": "maria.chen@peoplehub.com"
+  },
+  {
+    "id": "e2",
+    "name": "David Okafor",
+    "role": "Backend Engineer",
+    "department": "Engineering",
+    "email": "david.okafor@peoplehub.com"
+  },
+  {
+    "id": "e3",
+    "name": "Priya Nair",
+    "role": "HR Business Partner",
+    "department": "Human Resources",
+    "email": "priya.nair@peoplehub.com"
+  },
+  {
+    "id": "e4",
+    "name": "Tom Reilly",
+    "role": "Sales Director",
+    "department": "Sales",
+    "email": "tom.reilly@peoplehub.com"
+  },
+  {
+    "id": "e5",
+    "name": "Sofia Petrova",
+    "role": "Financial Analyst",
+    "department": "Finance",
+    "email": "sofia.petrova@peoplehub.com"
+  },
+  {
+    "id": "e6",
+    "name": "James Whitfield",
+    "role": "Frontend Engineer",
+    "department": "Engineering",
+    "email": "james.whitfield@peoplehub.com"
+  },
+  {
+    "id": "e7",
+    "name": "Aiko Tanaka",
+    "role": "Marketing Manager",
+    "department": "Marketing",
+    "email": "aiko.tanaka@peoplehub.com"
+  },
+  {
+    "id": "e8",
+    "name": "Carlos Mendes",
+    "role": "IT Support Specialist",
+    "department": "IT",
+    "email": "carlos.mendes@peoplehub.com"
+  }
+]

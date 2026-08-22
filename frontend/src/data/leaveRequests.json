@@ -1,0 +1,42 @@
+[
+  {
+    "id": "l1",
+    "employeeName": "Maria Chen",
+    "type": "Vacation",
+    "startDate": "2026-09-02",
+    "endDate": "2026-09-06",
+    "status": "Approved"
+  },
+  {
+    "id": "l2",
+    "employeeName": "David Okafor",
+    "type": "Sick Leave",
+    "startDate": "2026-08-20",
+    "endDate": "2026-08-21",
+    "status": "Pending"
+  },
+  {
+    "id": "l3",
+    "employeeName": "Priya Nair",
+    "type": "Parental Leave",
+    "startDate": "2026-10-01",
+    "endDate": "2026-12-15",
+    "status": "Pending"
+  },
+  {
+    "id": "l4",
+    "employeeName": "Tom Reilly",
+    "type": "Vacation",
+    "startDate": "2026-08-25",
+    "endDate": "2026-08-29",
+    "status": "Rejected"
+  },
+  {
+    "id": "l5",
+    "employeeName": "Sofia Petrova",
+    "type": "Personal",
+    "startDate": "2026-09-15",
+    "endDate": "2026-09-15",
+    "status": "Approved"
+  }
+]
